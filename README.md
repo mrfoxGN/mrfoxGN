@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anass 👋</h1>
+<h1 align="center">Hi, I'm Anass Guendaoui 👋</h1>
 
 <p align="center">
   <b>Backend & Full-Stack Developer</b>  
@@ -76,11 +76,11 @@ REST APIs using Spring Boot, Node.js, Django, PostgreSQL, MySQL, and Docker.
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="mailto:anassfox24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-anassfox24@gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:anass23guendaoui@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anass23guendaoui@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Anass%20Fox-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/anass-guendaoui">
+    <img src="https://img.shields.io/badge/LinkedIn-Anass%20Guendaoui-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/mrfoxGN">
     <img src="https://img.shields.io/badge/GitHub-mrfoxGN-black?style=for-the-badge&logo=github" />
