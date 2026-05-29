@@ -18,16 +18,17 @@
 
 I’m a software engineering student at **1337 / 42 Network**, focused on backend development, system programming, and full-stack applications.
 
-The 42 learning model is not traditional. It is based on **peer-to-peer learning**, project-based work, code reviews, debugging with teammates, and solving problems independently.
+The **42 Network** learning model is different from a traditional school. It is based on **peer-to-peer learning**, project-based work, code reviews, debugging with teammates, and solving problems independently.
 
-This way of learning helped me become autonomous, practical, and comfortable working inside engineering teams.
+This way of learning helped me become more autonomous, practical, and comfortable working inside engineering teams.
 
 Currently, I’m improving my skills in:
 
-- Backend development
+- Backend development with Spring Boot, Node.js, and Django
 - Full-stack web applications
 - C / Unix systems programming
-- Node.js, Fastify, Django, and databases
+- Java, REST APIs, and database design
+- PostgreSQL, MySQL, Docker, and Linux
 - Clean code, debugging, and real-world project structure
 
 ---
@@ -35,7 +36,7 @@ Currently, I’m improving my skills in:
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,python,django,fastapi,react,nextjs,html,css,tailwind,postgres,mysql,docker,git,github,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,spring,js,ts,nodejs,python,django,react,nextjs,html,css,tailwind,postgres,mysql,docker,git,github,linux,bash" />
 </p>
 
 ---
@@ -49,7 +50,7 @@ A Unix shell project built in C, implementing parsing, pipes, redirections, sign
 A full-stack web project involving backend development, authentication, real-time features, and modern web architecture.
 
 ### Backend APIs  
-REST APIs using Node.js, Fastify, Python, Django, PostgreSQL, and Docker.
+REST APIs using Spring Boot, Node.js, Django, PostgreSQL, MySQL, and Docker.
 
 ---
 
